@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to CCIOT SKILL</h1>
-        <h2>Sridevi</h2>
+        <h2>Navya</h2>
       </header>
     </div>
   );
